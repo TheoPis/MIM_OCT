@@ -1,0 +1,154 @@
+{
+
+  "theo_g7_OCTIR": [
+      "D:\\insel_db_section-oct_ir_final",
+      "C:\\Users\\thopis\\Documents\\PycharmProjects\\DICOM\\KEKI\\logs"
+  ],
+
+  "theo_g7_RAVIR": [
+      "C:\\Users\\thopis\\Documents\\datasets\\RAVIR\\RAVIR Dataset",
+      "C:\\Users\\thopis\\Documents\\datasets\\RAVIR\\logs",
+      "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_g7_OLIVES": [
+    "E:\\datasets\\OLIVES\\processed\\OLIVES",
+    "C:\\Users\\thopis\\Documents\\datasets\\OLIVES\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+
+  "theo_ubelix_OLIVES": [
+	  "${TMPDIR}/OLIVES/",
+	  "/storage/workspaces/artorg_aimi/ws_00000/tp/olives/logs",
+	  "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+
+  "theo_g7_OCTIR_no_drive": [
+      "C:\\Users\\thopis\\Documents\\PycharmProjects\\DICOM\\KEKI",
+      "C:\\Users\\thopis\\Documents\\PycharmProjects\\DICOM\\KEKI\\logs"
+  ],
+
+  "theo_g7_KEKI": [
+    "D:\\tp\\KEKI_100p\\data",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\DICOM\\KEKI\\logs"
+  ],
+
+    "theo_g7_MKEKI": [
+    "D:\\tp\\KEKI_100p\\data",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\DICOM\\MKEKI\\logs"
+  ],
+
+  "theo_ubelix_KEKI": [
+    "${TMPDIR}/KEKI_100p/data",
+    "/storage/homefs/tp22w036/KEKI/logs"
+  ],
+
+  "theo_ubelix_MKEKI": [
+    "${TMPDIR}/KEKI_100p/data",
+    "/storage/homefs/tp22w036/KEKI/logs"
+  ],
+
+  "theo_g7_OctBiom": [
+    "C:\\Users\\thopis\\Documents\\datasets\\OctBiom\\",
+    "C:\\Users\\thopis\\Documents\\datasets\\OctBiom\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_g7_RETOUCH": [
+    "C:\\Users\\thopis\\Documents\\datasets\\RETOUCH\\labelled_preprocessed",
+    "C:\\Users\\thopis\\Documents\\datasets\\RETOUCH\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_g7_DR": [
+    "C:\\Users\\thopis\\Documents\\datasets\\DR\\data\\",
+    "C:\\Users\\thopis\\Documents\\datasets\\DR\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_g7_OCTID": [
+    "C:\\Users\\thopis\\Documents\\datasets\\OCTID\\",
+    "C:\\Users\\thopis\\Documents\\datasets\\OCTID\\logs\\",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs\\"
+  ],
+
+  "theo_g7_OCTDL": [
+    "C:\\Users\\thopis\\Documents\\datasets\\OCTDL\\",
+    "C:\\Users\\thopis\\Documents\\datasets\\OCTDL\\logs\\",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs\\"
+  ],
+
+  "theo_g7_AROI": [
+    "C:\\Users\\thopis\\Documents\\datasets\\AROI\\roi",
+    "C:\\Users\\thopis\\Documents\\datasets\\AROI\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_g7_OCT5K": [
+    "C:\\Users\\thopis\\Documents\\datasets\\OCT5K\\",
+    "C:\\Users\\thopis\\Documents\\datasets\\OCT5K\\logs",
+    "C:\\Users\\thopis\\Documents\\PycharmProjects\\MOP\\logging\\OCTIR\\logs"
+  ],
+
+  "theo_ubelix_OCTIR": [
+    "${TMPDIR}/",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_OctBiom": [
+    "${TMPDIR}/",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/oct_datasets/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+    "theo_ubelix_RETOUCH": [
+    "${TMPDIR}/labelled_preprocessed",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/retouch/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_AROI": [
+    "${TMPDIR}/roi",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/aroi/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_OCT5K": [
+    "${TMPDIR}/OCT5K/",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/OCT5K/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_DR": [
+    "${TMPDIR}/DR/data",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/DR/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_OCTID": [
+    "${TMPDIR}/OCTID/",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/OCTID/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "theo_ubelix_OCTDL": [
+    "${TMPDIR}/OCTDL/",
+    "/storage/workspaces/artorg_aimi/ws_00000/tp/OCTDL/logs",
+    "/storage/homefs/tp22w036/OCTIR/logs"
+  ],
+
+  "ss_pretrained_theo_ubelix": [
+    "/storage/homefs/tp22w036/data/ss_pretrained"
+  ],
+
+
+  "pytorch_checkpoints_theo_g7": [
+    "C:\\Users\\thopis\\Documents\\pytorch_checkpoints"
+  ],
+
+  "pytorch_checkpoints_theo_ubelix": [
+    "/storage/homefs/tp22w036/data/pytorch_checkpoints"
+  ]
+}
